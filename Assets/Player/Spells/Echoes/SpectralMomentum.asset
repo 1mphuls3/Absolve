@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef90766a68bef204d9a5d4b8615ebb89, type: 3}
+  m_Name: SpectralMomentum
+  m_EditorClassIdentifier: Assembly-CSharp::SpectralMomentum
+  echoName: Spectral Momentum
+  description: Hitting an enemy grants 20% movement speed for 2 seconds
+  icon: {fileID: 3104973674113433258, guid: c9643b40f7a83794c86e812768fed681, type: 3}
+  speedMult: 1.2
+  speedTime: 2

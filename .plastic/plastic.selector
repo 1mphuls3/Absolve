@@ -1,0 +1,4 @@
+repository "blood-game/blood-game@20066727829637@cloud"
+  path "/"
+    br "/main"
+    co "/main"

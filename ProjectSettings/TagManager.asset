@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Wall
+  - Enemy
+  - Ground
+  - Platform
+  - IgnorePlatforms
+  - UI1
+  - UI2
+  - UI3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Enemy
+  - Player
+  - IgnorePlatforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 1304275899
+    locked: 0
+  - name: BackgroundWalls
+    uniqueID: 1104772389
+    locked: 0
+  - name: Entities
+    uniqueID: 4228322483
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

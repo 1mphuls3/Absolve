@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e386e63e791f57a499e5992eef174073, type: 3}
+  m_Name: DissonantHeart
+  m_EditorClassIdentifier: Assembly-CSharp::DissonantHeart
+  echoName: Dissonant Heart
+  description: Damage dealt is doubled, but damage taken and Spirit costs are also
+    doubled
+  icon: {fileID: 3586331368776428314, guid: b29cb3259dc7b7e4f994f53eed6d14e5, type: 3}
